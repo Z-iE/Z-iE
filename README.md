@@ -18,7 +18,7 @@
          [bug] .*' /  .*' ; .*`- +'  `*'
                `*-*   `*-*  `*-*'       
  ```
-  <img src="https://64.media.tumblr.com/ce63077c6fbca248d31ac5292572068d/703a4f556397dea1-54/s1280x1920/651ff65ca520738efcb9865d6590b85bb9a8e990.jpg" alt="Image Description" width="200px" align="left" border-radius="50%">
+  <img src="https://64.media.tumblr.com/230c31fbd15d467799b3e2eb4b495e8c/889d392b5808367b-d4/s1280x1920/bad764d67256c25524f98a0458167c0359d60314.jpg" alt="Image Description" width="200px" align="left" border-radius="50%">
 
 
 
