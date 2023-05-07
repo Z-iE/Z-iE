@@ -11,7 +11,7 @@
                 `-.-'          `-.          🏫 Estudante de Análise e Desenvolvimento de Sistemas - XP Educação.
                   ;       `       `.        🔎 Aprendendo HTML, CSS, Javascript e Java.
                   :.       .        \       🔭 Tenho bastante interesse por Machine Learning e Automação.
-                  . \  .   :   .-'   .      🎧 Gosto de Animes, Jogos e Filmes, Pixel Art e Modelagem 3D.
+                  . \  .   :   .-'   .      🎧 Gosto de Animes, Jogos, Filmes, Pixel Art e Modelagem 3D.
                   '  `+.;  ;  '      :      
                   :  '  |    ;       ;-.
                   ; '   : :`-:     _.`* ;
