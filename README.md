@@ -35,3 +35,4 @@
       else {Anime, Games, Films + 3D Modeling};
   return Feel free to connect!
   
+"No matter where you go, everyone's connected." - Serial Experiments Lain.
