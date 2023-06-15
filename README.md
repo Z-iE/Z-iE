@@ -1,38 +1,27 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e07a5f&height=120&section=header"/>
 
-<h2> Olá, meu nome é Danuzia! <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="50"></h2>
+<img src="https://64.media.tumblr.com/230c31fbd15d467799b3e2eb4b495e8c/889d392b5808367b-d4/s1280x1920/bad764d67256c25524f98a0458167c0359d60314.jpg" alt="Image Description" width="200px" align="left" border-radius="50%">
 
-  ```
-                  _                       
-                \`*-.                   
-                 )  _`-.                
-                .  : `. .               
-                : _   '  \                  🖨️ Seja bem-vindo(a) ao meu GitHub! - Estamos em construção...
-                ; *` _.   `*-._             
-                `-.-'          `-.          🏫 Estudante de Análise e Desenvolvimento de Sistemas - XP Educação.
-                  ;       `       `.        🔎 Aprendendo HTML, CSS, Javascript e Java.
-                  :.       .        \       🔭 Tenho bastante interesse por Machine Learning e Automação.
-                  . \  .   :   .-'   .      🎧 Gosto de Animes, Jogos, Filmes, Pixel Art e Modelagem 3D.
-                  '  `+.;  ;  '      :      
-                  :  '  |    ;       ;-.
-                  ; '   : :`-:     _.`* ;
-         [bug] .*' /  .*' ; .*`- +'  `*'
-               `*-*   `*-*  `*-*'       
- ```
-  <img src="https://64.media.tumblr.com/230c31fbd15d467799b3e2eb4b495e8c/889d392b5808367b-d4/s1280x1920/bad764d67256c25524f98a0458167c0359d60314.jpg" alt="Image Description" width="200px" align="left" border-radius="50%">
-
-
-
-
-
-<p>
-  
-```javascript
-  function zie() {
-    alert("Hi, I'm Danuzia!")
-    let learning = [HTML, CSS, Javascript + Java];
-      for (i = likes, i++) {
-        Machine Learning + Automation}
-      else {Anime, Games, Films + 3D Modeling};
-  return Feel free to connect!
+ 
+```java
+public class Danuzia {
+    public static void main(String[] args) {
+        System.out.println("Olá, meu nome é Danuzia!");
+        
+        String[] estudandoAtualmente = {"HTML", "CSS", "Javascript", "Java"};
+      for (String i = tenhoInteresse, i++) {
+        Machine Learning + Automação}
+        
+      else if (Animes, Jogos, Filmes + Modelagem 3D) { 
+        System.out.println("Feel free to connect!"}
   
 "No matter where you go, everyone's connected." - Serial Experiments Lain.
+```
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Z-IE&show_icons=true&count_private=true&hide_border=true&title_color=e07a5f&icon_color=e07a5f&text_color=ebcfb2&bg_color=0d1117" alt="Danuzia github stats"/>  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-IE&layout=compact&hide_border=true&title_color=e07a5f&text_color=ebcfb2&bg_color=0d1117" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e07a5f&height=120&section=footer"/>
