@@ -20,8 +20,8 @@ public class Danuzia {
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Z-IE&show_icons=true&count_private=true&hide_border=true&title_color=2e489e&icon_color=e07a5f&text_color=ebcfb2&bg_color=0d1117" alt="Danuzia github stats"/>  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-IE&layout=compact&hide_border=true&title_color=2e489e&text_color=ebcfb2&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Z-IE&show_icons=true&count_private=true&hide_border=true&title_color=2e489e&icon_color=2e489e&text_color=5f70e0&bg_color=0d1117" alt="Danuzia github stats"/>  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-IE&layout=compact&hide_border=true&title_color=2e489e&text_color=5f70e0&bg_color=0d1117" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e489e&height=120&section=footer"/>
